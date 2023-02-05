@@ -1,6 +1,8 @@
 # C# Speaker
 C# .NET function library
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://avbc.me/fGf7g9V0)
+
 **Welcome to our C# function library!**
 
 Our library is a collection of useful functions that will streamline your C# development and make it easier to solve common programming tasks. We have designed the library to be efficient, easy to use, and packed with powerful features that will help you achieve your development goals faster.
