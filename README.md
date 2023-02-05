@@ -13,4 +13,4 @@ We are constantly updating and improving our library, so you can expect new feat
 
 Thank you for choosing our C# function library, we are confident it will make your development process more efficient, streamlined and enjoyable. We are constantly working to improve our library, so please let us know if you have any suggestions or feedback. We hope you enjoy using our library as much as we enjoyed creating it!
 
-You can support by buying a coffee ☕️ here — https://www.buymeacoffee.com/avbc 
+You can support by buying a coffee ☕️ here — https://avbc.me/fGf7g9V0
